@@ -1,0 +1,3 @@
+* if you use google chrome or internet explorer you cannot see output until you quit from prompt
+* if you use firefox you can see output backside even on prompt.
+* this simple program is intended for arrays concept only.
